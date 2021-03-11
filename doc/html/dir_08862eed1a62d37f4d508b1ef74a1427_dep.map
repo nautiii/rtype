@@ -1,0 +1,20 @@
+<map id="lib/system/collision" name="lib/system/collision">
+<area shape="rect" id="node1" href="dir_08862eed1a62d37f4d508b1ef74a1427.html" title="collision" alt="" coords="119,52,195,100"/>
+<area shape="rect" id="node2" href="dir_7b406a00d07709fade97a0526bd05edf.html" title="component" alt="" coords="67,148,162,196"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000017_000009.html" title="2" alt="" coords="136,128,145,142"/>
+<area shape="rect" id="node3" href="dir_9a82fcd66fc602aa1cf55c52ea6b7a1e.html" title="ecs" alt="" coords="5,244,77,292"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000017_000010.html" title="1" alt="" coords="41,218,51,233"/>
+<area shape="rect" id="node4" href="dir_b308446bc9a07bf224b131088dd65236.html" title="engine" alt="" coords="91,340,163,388"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000017_000011.html" title="2" alt="" coords="147,319,156,334"/>
+<area shape="rect" id="node5" href="dir_2e92b0321a5b4b203538ce17b748e936.html" title="event" alt="" coords="91,436,163,484"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000017_000025.html" title="1" alt="" coords="160,419,169,433"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000009_000010.html" title="1" alt="" coords="72,227,82,242"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000009_000011.html" title="1" alt="" coords="120,313,129,328"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000010_000011.html" title="1" alt="" coords="87,314,96,328"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000011_000009.html" title="1" alt="" coords="112,208,121,223"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000011_000010.html" title="2" alt="" coords="72,304,82,319"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000011_000025.html" title="3" alt="" coords="121,410,131,425"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000025_000010.html" title="4" alt="" coords="38,305,47,319"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000025_000011.html" title="1" alt="" coords="123,400,132,414"/>
+<area shape="rect" id="clust1" href="dir_9ed55681294d7d9539b8ac10b0c682f5.html" title="system" alt="" coords="108,16,207,111"/>
+</map>

@@ -1,0 +1,13 @@
+entities:
+    button_play:
+        components:
+            sprite:
+                texture: "ressources/ui/start_button.png"
+            transform:
+                x: 1200
+                y: 700
+                width: 410
+                height: 121
+            clickable:
+                signal: "button_start_game"
+                sound: "ressources/sound/button1.ogg"

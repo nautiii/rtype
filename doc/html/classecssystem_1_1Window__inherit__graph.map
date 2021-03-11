@@ -1,0 +1,4 @@
+<map id="ecssystem::Window" name="ecssystem::Window">
+<area shape="rect" id="node1" title="The Window System." alt="" coords="15,160,193,252"/>
+<area shape="rect" id="node2" href="$classecs_1_1System.html" title="The parent class of all the Systems." alt="" coords="5,5,203,112"/>
+</map>

@@ -1,0 +1,46 @@
+entities:
+    perso:
+        network: true
+        components:
+            sprite:
+                texture: "ressources/sprite/r-typesheet42.gif"
+                scale_x: 4
+                scale_y: 4
+                rect_x: 0
+                rect_y: 0
+                rect_width: 33
+                rect_height: 19
+            transform:
+                x: 755
+                y: 500
+                width: 410
+                height: 121
+            movable:
+                network: false
+                speed: 200
+            animate:
+                total_frames: 5
+                frame_time: 0.1
+            shoot:
+                network: false
+                delay: 1
+                template:
+                    network: true
+                    components:
+                        sprite:
+                            texture: "ressources/sprite/r-typesheet1.gif"
+                            scale_x: 4
+                            scale_y: 4
+                            rect_x: 200
+                            rect_y: 120
+                            rect_width: 33
+                            rect_height: 12
+                            sound: "ressources/sound/shoot.ogg"
+                        animate:
+                            total_frames: 2
+                            frame_time: 0.1
+                        collision:
+                            rect_width: 200
+                            rect_height: 120
+                            layer: 2
+                            bitmask: 1

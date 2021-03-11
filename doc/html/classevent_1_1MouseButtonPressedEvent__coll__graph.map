@@ -1,0 +1,6 @@
+<map id="event::MouseButtonPressedEvent" name="event::MouseButtonPressedEvent">
+<area shape="rect" id="node1" title="The Class to handle the event when the user click on the mouse." alt="" coords="77,160,309,281"/>
+<area shape="rect" id="node2" href="$classmediator_1_1IEvent.html" title="The interface for the events." alt="" coords="5,5,136,97"/>
+<area shape="rect" id="node3" title=" " alt="" coords="161,13,226,90"/>
+<area shape="rect" id="node4" title=" " alt="" coords="250,13,326,90"/>
+</map>

@@ -1,0 +1,32 @@
+entities:
+    monster1:
+        network: true
+        components:
+            sprite:
+                texture: "ressources/sprite/r-typesheet42.gif"
+                scale_x: 4
+                scale_y: 4
+                rect_x: 0
+                rect_y: 0
+                rect_width: 33
+                rect_height: 19
+            transform:
+                x: 1920
+                y: 500
+                width: 410
+                height: 121
+            animate:
+                total_frames: 5
+                frame_time: 0.1
+            collision:
+                rect_width: 132
+                rect_height: 76
+                layer: 1
+                bitmask: 2
+            moving:
+                start_x: 1920
+                start_y: 500
+                dest_x: -200
+                dest_y: 500
+                duration: 10
+                free_on_completion: true

@@ -1,0 +1,4 @@
+<map id="game::Game" name="game::Game">
+<area shape="rect" id="node1" title="The game scene." alt="" coords="11,145,117,252"/>
+<area shape="rect" id="node2" href="$classengine_1_1IScene.html" title="The Scene interfaces." alt="" coords="5,5,123,97"/>
+</map>

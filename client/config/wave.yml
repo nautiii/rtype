@@ -1,0 +1,11 @@
+entities:
+    mspawner:
+        components:
+            spawner:
+                waves:
+                    wave1:
+                        delay: 2
+                        file: "config/wave/wave1.yml"
+                    wave2:
+                        delay: 5
+                        file: "config/wave/wave2.yml"

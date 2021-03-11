@@ -1,0 +1,34 @@
+entities:
+    room_list_text:
+        components:
+            label:
+                font: "ressources/font/OpenSans-Regular.ttf"
+                text: "Room list"
+                font_size: 50
+            transform:
+                x: 500
+                y: 200
+    backward_button:
+        components:
+            sprite:
+                texture: "ressources/ui/backward_button.png"
+            transform:
+                x: 300
+                y: 800
+                width: 210
+                height: 210
+            clickable:
+                signal: "button_backward_pressed"
+                sound: "ressources/sound/button1.ogg"
+    create_room_button:
+        components:
+            sprite:
+                texture: "ressources/ui/create_room.png"
+            transform:
+                x: 1300
+                y: 825
+                width: 150
+                height: 150
+            clickable:
+                signal: "button_create_room_pressed"
+                sound: "ressources/sound/button1.ogg"

@@ -1,0 +1,15 @@
+<map id="lib/system/shooter" name="lib/system/shooter">
+<area shape="rect" id="node1" href="dir_9d4d84982bb88f2e617a65c1f19e2d5f.html" title="shooter" alt="" coords="91,52,163,100"/>
+<area shape="rect" id="node2" href="dir_7b406a00d07709fade97a0526bd05edf.html" title="component" alt="" coords="79,148,174,196"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000021_000009.html" title="3" alt="" coords="130,122,140,137"/>
+<area shape="rect" id="node3" href="dir_9a82fcd66fc602aa1cf55c52ea6b7a1e.html" title="ecs" alt="" coords="5,244,77,292"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000021_000010.html" title="1" alt="" coords="49,220,59,234"/>
+<area shape="rect" id="node4" href="dir_b308446bc9a07bf224b131088dd65236.html" title="engine" alt="" coords="91,340,163,388"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000021_000011.html" title="3" alt="" coords="154,321,164,336"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000009_000010.html" title="1" alt="" coords="76,229,85,244"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000009_000011.html" title="1" alt="" coords="123,314,132,328"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000010_000011.html" title="1" alt="" coords="87,314,96,328"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000011_000009.html" title="1" alt="" coords="121,208,131,222"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000011_000010.html" title="2" alt="" coords="72,304,82,319"/>
+<area shape="rect" id="clust1" href="dir_9ed55681294d7d9539b8ac10b0c682f5.html" title="system" alt="" coords="80,16,173,111"/>
+</map>

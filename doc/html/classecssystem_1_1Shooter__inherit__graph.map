@@ -1,0 +1,4 @@
+<map id="ecssystem::Shooter" name="ecssystem::Shooter">
+<area shape="rect" id="node1" title="The Shooter System." alt="" coords="5,160,203,311"/>
+<area shape="rect" id="node2" href="$classecs_1_1System.html" title="The parent class of all the Systems." alt="" coords="5,5,203,112"/>
+</map>

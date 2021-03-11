@@ -1,0 +1,57 @@
+entities:
+    monster2353h1:
+        network: true
+        components:
+            sprite:
+                texture: "ressources/sprite/momo.png"
+                scale_x: .2
+                scale_y: .2
+                rect_x: 0
+                rect_y: 0
+                rect_width: 1000
+                rect_height: 1333
+            transform:
+                x: 1920
+                y: 400
+                width: 410
+                height: 121
+            collision:
+                rect_width: 132
+                rect_height: 76
+                layer: 1
+                bitmask: 2
+            moving:
+                start_x: 1920
+                start_y: 500
+                dest_x: -200
+                dest_y: 400
+                duration: 10
+                free_on_completion: true
+    monster23fdh1:
+        network: true
+        components:
+            sprite:
+                texture: "ressources/sprite/momo.png"
+                scale_x: .2
+                scale_y: .2
+                rect_x: 0
+                rect_y: 0
+                rect_width: 1000
+                rect_height: 1333
+            transform:
+                x: 2000
+                y: 700
+                width: 410
+                height: 121
+            collision:
+                rect_width: 132
+                rect_height: 76
+                layer: 1
+                bitmask: 2
+            moving:
+                start_x: 2000
+                start_y: 700
+                dest_x: -200
+                dest_y: 700
+                duration: 10
+                free_on_completion: true

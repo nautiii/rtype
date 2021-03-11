@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classecs_1_1System.html" title="The parent class of all the Systems." alt="" coords="5,233,107,260"/>
+<area shape="rect" id="node2" href="$classecssystem_1_1Animate.html" title="The Animate System." alt="" coords="172,5,327,32"/>
+<area shape="rect" id="node3" href="$classecssystem_1_1Clickable.html" title="The Clickable System." alt="" coords="170,56,329,83"/>
+<area shape="rect" id="node4" href="$classecssystem_1_1Collision.html" title=" " alt="" coords="171,107,327,133"/>
+<area shape="rect" id="node5" href="$classecssystem_1_1Movable.html" title="The Movable System." alt="" coords="171,157,327,184"/>
+<area shape="rect" id="node6" href="$classecssystem_1_1Moving.html" title="The Moving System." alt="" coords="175,208,323,235"/>
+<area shape="rect" id="node7" href="$classecssystem_1_1Shooter.html" title="The Shooter System." alt="" coords="174,259,325,285"/>
+<area shape="rect" id="node8" href="$classecssystem_1_1Sprite.html" title="The Sprite System." alt="" coords="180,309,319,336"/>
+<area shape="rect" id="node9" href="$classecssystem_1_1Text.html" title="The Text System." alt="" coords="186,360,313,387"/>
+<area shape="rect" id="node10" href="$classecssystem_1_1Window.html" title="The Window System." alt="" coords="173,411,325,437"/>
+<area shape="rect" id="node11" href="$classecssystem_1_1WindowEvent.html" title="The WindowEvent System." alt="" coords="155,461,344,488"/>
+</map>

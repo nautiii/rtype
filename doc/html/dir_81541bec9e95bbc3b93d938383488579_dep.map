@@ -1,0 +1,9 @@
+<map id="client/src/scene/room_view" name="client/src/scene/room_view">
+<area shape="rect" id="node1" href="dir_81541bec9e95bbc3b93d938383488579.html" title="room_view" alt="" coords="31,52,126,100"/>
+<area shape="rect" id="node2" href="dir_fde226191738fb25d35dc84b8fecb0ab.html" title="game" alt="" coords="5,148,77,196"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000007_000004.html" title="1" alt="" coords="60,127,70,142"/>
+<area shape="rect" id="node3" href="dir_97aefd0d527b934f1d99a682da8fe6a9.html" title="lib" alt="" coords="41,244,113,292"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000007_000008.html" title="9" alt="" coords="89,220,98,235"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000004_000008.html" title="4" alt="" coords="65,217,75,231"/>
+<area shape="rect" id="clust1" href="dir_96d81fa686cbeb494766a2551898eee6.html" title="scene" alt="" coords="20,16,137,111"/>
+</map>

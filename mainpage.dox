@@ -1,0 +1,35 @@
+* Documentation tag for Doxygen
+ */
+
+/*! \mainpage R-Type Documentation
+ *
+ * \section intro_sec Introduction
+ *
+ * This is the documentation for a reproduction of the game R-Type
+ *
+ * \section install_sec Installation
+ *
+ * \subsection tools_subsec Tools required for this project:
+ * - Conan
+ * - cmake
+ *
+ * \subsection build Building the program
+ * At the root of the project, create a directory 'build' and enter in it
+ * In a terminal run:
+ *      - conan install .. --build=missing
+ *      - cmake ..
+ *      - make
+ *
+ * \subsection run Run the program
+ *      - In a terminal run the executable r-type_server
+ *      - In an another terminal run the executable r-type_client
+ *
+ * \section contrib_sec Contributors:
+ * - Gaetan DEPIN
+ * - Axel VIROT
+ * - Quentin MAILLARD
+ * - Alain NGUYEN
+ *
+ * <BR><BR>
+ *
+ */

@@ -1,0 +1,4 @@
+<map id="event::KeyPressedEvent" name="event::KeyPressedEvent">
+<area shape="rect" id="node1" title="The Class that will handle when a key is pressed." alt="" coords="5,145,184,252"/>
+<area shape="rect" id="node2" href="$classmediator_1_1IEvent.html" title="The interface for the events." alt="" coords="29,5,160,97"/>
+</map>

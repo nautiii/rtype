@@ -1,0 +1,17 @@
+<map id="client/src/scene" name="client/src/scene">
+<area shape="rect" id="node2" href="dir_fde226191738fb25d35dc84b8fecb0ab.html" title="game" alt="" coords="44,255,116,303"/>
+<area shape="rect" id="node6" href="dir_97aefd0d527b934f1d99a682da8fe6a9.html" title="lib" alt="" coords="143,351,215,399"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000004_000008.html" title="4" alt="" coords="143,325,152,339"/>
+<area shape="rect" id="node3" href="dir_8a9dc81275256dffccf46a42fa2e710b.html" title="menu" alt="" coords="157,159,229,207"/>
+<area shape="rect" id="node4" href="dir_ec407d7160c1b90ba096f12d3ff55471.html" title="room_list" alt="" coords="51,63,133,111"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000005_000006.html" title="1" alt="" coords="129,122,138,137"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000005_000008.html" title="8" alt="" coords="186,326,195,340"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000006_000005.html" title="1" alt="" coords="148,133,157,148"/>
+<area shape="rect" id="node5" href="dir_81541bec9e95bbc3b93d938383488579.html" title="room_view" alt="" coords="38,159,133,207"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000006_000007.html" title="1" alt="" coords="92,134,101,148"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000006_000008.html" title="11" alt="" coords="206,333,223,348"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000007_000004.html" title="1" alt="" coords="86,230,95,244"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000007_000008.html" title="9" alt="" coords="167,323,176,338"/>
+<area shape="rect" id="clust2" href="dir_96d81fa686cbeb494766a2551898eee6.html" alt="" coords="27,52,240,313"/>
+<area shape="rect" id="clust1" href="dir_b565d458ba0ce2faccd0ea2cd60c04eb.html" title="src" alt="" coords="16,16,251,324"/>
+</map>

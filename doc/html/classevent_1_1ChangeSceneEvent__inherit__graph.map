@@ -1,0 +1,4 @@
+<map id="event::ChangeSceneEvent" name="event::ChangeSceneEvent">
+<area shape="rect" id="node1" title="The Class that will change scenes." alt="" coords="5,145,197,252"/>
+<area shape="rect" id="node2" href="$classmediator_1_1IEvent.html" title="The interface for the events." alt="" coords="36,5,167,97"/>
+</map>

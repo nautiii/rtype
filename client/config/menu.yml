@@ -1,0 +1,34 @@
+entities:
+    button_play:
+        components:
+            sprite:
+                texture: "ressources/ui/start_button.png"
+            transform:
+                x: 755
+                y: 500
+                width: 410
+                height: 121
+            clickable:
+                signal: "button_play_pressed"
+                sound: "ressources/sound/button1.ogg"
+    button_exit:
+        components:
+            sprite:
+                texture: "ressources/ui/exit_button.png"
+            transform:
+                x: 755
+                y: 700
+                width: 410
+                height: 121
+            clickable:
+                signal: "button_quit_pressed"
+                sound: "ressources/sound/button1.ogg"
+    text:
+        components:
+            label:
+                font: "ressources/font/OpenSans-Regular.ttf"
+                text: "rtype"
+                font_size: 50
+            transform:
+                x: 500
+                y: 200
